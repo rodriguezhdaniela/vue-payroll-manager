@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Payrolls from '../views/Payrolls.vue'
+import Account from '../views/Account.vue'
 
 const routes = [
   {
@@ -7,6 +8,11 @@ const routes = [
     name: 'payrolls',
     component: Payrolls
   },
+  {
+    path: '/account',
+    name: 'account',
+    component: Account
+  }
 ]
 
 const router = createRouter({
