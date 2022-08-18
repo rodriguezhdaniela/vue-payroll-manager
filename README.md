@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-See [result] (https://payroll-vue-3.netlify.app/).
+See [result](https://payroll-vue-3.netlify.app/).
